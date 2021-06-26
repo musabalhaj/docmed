@@ -1,0 +1,199 @@
+*{
+  font-size: 16px !important;
+  font-family: 'Segoe UI Semibold', sans-serif;
+  direction: rtl;
+}
+body{
+  background-color: #BBCCCB;
+  color: #666666;
+}
+.header{
+  background-color: #147871;
+}
+h6{
+  padding-bottom: 0px;
+  /* border-bottom: 1px solid #d1d4c9; */
+}
+h4{
+  text-align: center;
+  font-size: 25px !important;
+}
+hr{
+  background-color: #ffffff
+}
+.card-box{
+  color : black !important;
+  border-radius: 15px;
+  border-top: 4px solid #147871 !important;
+  border-bottom: 4px solid #147871 !important;
+}
+.card-block .btn{
+  border-radius: 5px !important;
+}
+.profile-view .btn{
+  border-radius: 5px !important;
+}
+.card .btn-block{
+  border-radius: 15px !important;
+}
+.bg-primary{
+  background-color: #147871 !important;
+  color: #ffffff;
+}
+.btn-primary{
+  background-color: #147871 !important;
+  color: #ffffff !important;
+  border: none;
+}
+.btn-success{
+  background-color: #147871 !important;
+  color: #ffffff !important;
+  border: none;
+}
+.alert-success{
+  margin-right: 60%;
+  background-color: green;
+  color: white;
+  position: fixed;
+  top: 50px;
+  border-radius: 5px;
+}
+.alert-danger {
+  color: red !important;
+  background-color: #e2f0fb;
+  border-color: #e2f0fb;
+  text-align: initial;
+}
+.star{
+  color: red;
+}
+.btn{
+  margin-bottom: 3px ;
+  margin-left: 3px !important;
+  border-radius: 15px !important;
+}
+.fa-ellipsis-v{
+  color: black !important;
+}
+.fa-language{
+  font-size: 20px !important;
+}
+.avatar{
+  background-color: #009efb !important;
+  cursor:default;
+}
+.breadcrumb{
+  background-color: #ffffff;
+  /* margin-top: -10px; */
+  border-radius: 10px;
+}
+.toggel-info{
+  color: #2ab4c0;
+  cursor: pointer;
+}
+.nice-msg{
+  padding: 10px;
+  background-color: #ccc;
+  margin: 10px 0;
+  border-right: 5px solid #009efb;
+  color: #022c43;
+}
+.table{
+  text-align: center !important;
+}
+.custom-form .form-group .btn-block{
+  border-right: 0 !important;
+  border-left: 0  !important;
+}
+.custom-form .form-group .btn-sm{
+  border-right: 0 !important;
+  border-left: 0  !important;
+}
+.custom-form .form-group label{
+direction: rtl !important;
+text-align: initial;
+}
+.dropdown-item{
+  text-align: initial;
+}
+.sidebar-menu ul ul {
+  
+  text-align: justify;
+}
+.dropdown, .dropleft, .dropright, .dropup {
+  position: relative;
+  text-align: end;
+  
+}
+.custom-form .form-group input,.custom-form .form-group textarea, .custom-form .form-group form-check{       
+  border-radius: 10px;
+  border-right: 4px solid #147871 !important;
+  border-left: 4px solid #147871 !important;
+  font-size: 16px;
+  color: black;
+  margin-right: 10px;
+  padding: 5px;
+} 
+.bill .table input{
+  border-radius:  0px;
+  border-right: 4px solid #147871 !important;
+  border-left: 4px solid #147871 !important;
+}
+.bill .table .a{
+  border-radius:  5px !important; 
+}
+.custom-form .form-group select{   
+  border-radius: 10px;
+  border-right: 4px solid #147871 !important;
+  border-left: 4px solid #147871 !important;
+  font-size: 16px;
+  color: black;
+  margin-right: 10px;
+  padding: 5px;
+  min-height: 40px;
+  direction: ltr;
+}
+.custom-form .custom-file{
+  padding-bottom: 40px;
+  margin-right: 10px;
+}
+.custom-form .multipleSelect input{
+  border-right:none !important;
+  border-left: none !important;
+  border-radius: 0px !important;
+  margin-right: 10px;
+}
+.sidebar-menu .submenu li:hover{
+  border-right: 5px solid #147871 !important; 
+  border-left: 5px solid #147871 !important; 
+} 
+.sidebar-menu li.active a {
+  border-radius: 10px !important;
+}
+.sidebar-menu > ul > li > a> i {
+  color: #147871 ;
+  font-size: 20px !important;
+}
+.dash-widget .fa{
+  font-size: 25px !important;
+}
+.dash-widget-info .fa{
+  font-size: 15px !important;
+}
+.dataTables_paginate{
+  display : none;
+}
+.dataTables_filter{
+  margin-top: -30px !important;
+}
+.dataTables_filter input{       
+  border-radius: 15px;
+  border-right: 5px solid #147871 !important;
+  border-left: 5px solid #147871 !important;
+  border-top: 1px solid #147871 !important;
+  border-bottom: 1px solid #147871 !important;
+  font-size: 16px;
+  color: black;
+  min-width:400px !important;
+  padding: 5px;
+}
